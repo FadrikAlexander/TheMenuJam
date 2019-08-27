@@ -12,9 +12,9 @@ The System Contain:
 Download amazing finished UI:
 https://kenney.nl/assets
 
-Subscribe: https://www.youtube.com/channel/UCaoH...
+Subscribe: https://www.youtube.com/channel/UCaoHl0kT4bB-4U-YGv98NnQ?sub_confirmation=1
 Discord: https://discord.gg/u5zuyYm
-Reddit: https://www.reddit.com/user/FadrikAle...
+Reddit: https://www.reddit.com/user/FadrikAlexander
 Twitter: https://twitter.com/FadrikAlexander
 Play my games at: https://fadrikalexander.itch.io/
 
