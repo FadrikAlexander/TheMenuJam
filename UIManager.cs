@@ -7,6 +7,8 @@ using UnityEditor;
 // The Script that contain functions to be applied before running the game
 public class UIManager : MonoBehaviour
 {
+
+#if UNITY_EDITOR
     //to allow the function to appear in the top menu
     [MenuItem("UI System/Auto Anchor")]
     static void PutAnchorAroundUIElement()
@@ -47,6 +49,6 @@ public class UIManager : MonoBehaviour
             UIObj_RectTransform.pivot = new Vector2(0.5f, 0.5f);
         }
     }
-
+#endif
 
 }
